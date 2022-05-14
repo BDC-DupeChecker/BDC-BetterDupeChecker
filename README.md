@@ -1,4 +1,4 @@
-# NBT-Dupe-Checker
+# BDC-Dupe-Checker
 A 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Skyblock
 
 # What does it do?
@@ -17,3 +17,4 @@ Short answer: This mod follows the general interpretation of Hypixel's rules, do
 
 /nbt on - Activates the dupe checker
 /nbt off - Deactivates the dupe checker
+/nbt - for gui
